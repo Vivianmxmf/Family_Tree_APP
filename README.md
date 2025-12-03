@@ -4,9 +4,9 @@ An interactive family-tree builder for macOS that lets you create profiles, conn
 
 ## Quick Views:
 
-![Member Page](img/Edit_members.png)
+![Member Page](img/Edit_Members.png)
 
-![Family Tree Page](img/Edit_family_tree.png)
+![Family Tree Page](img/Edit_Family_Tree.png)
 
 
 ## Features
