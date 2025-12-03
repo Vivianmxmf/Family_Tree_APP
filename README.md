@@ -2,6 +2,13 @@
 
 An interactive family-tree builder for macOS that lets you create profiles, connect relatives (and pets), and arrange a visual graph with drag-and-drop, zoom/pan, and inline editing. State is persisted locally so members, connections, and layout survive app restarts.
 
+## Quick Views:
+
+![Member Page](img/Edit_members.png)
+
+![Family Tree Page](img/Edit_family_tree.png)
+
+
 ## Features
 - Main menu with story/onboarding, profile setup, add/edit member flows, and dual “My Tree” views (list vs. graph).
 - Member profiles: emoji/avatar picker, age/relationship fields, validation, and inline success feedback.
